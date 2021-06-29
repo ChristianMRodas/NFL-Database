@@ -9,30 +9,30 @@
      
 
 <p><b>- Coaches</b></p>
-- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
+<img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
      width="800" 
      height="600" />
 <br>
      
-- Player Info
-- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/player%20info.PNG?raw=true" 
+<p><b>- Player Info</b></p>
+<img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/player%20info.PNG?raw=true" 
      width="800" 
      height="600" />
 <br>
      
-- Most Super Bowl Wins
-- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
+<p><b>- Most Super Bowl Wins</b></p>
+<img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
      width="800" 
      height="600" />
 <br>
 
-- Most Yards Thrown
-- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/most%20yards%20thrown.PNG?raw=true" 
+<p><b>- Most Yards Thrown</b></p>
+<img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/most%20yards%20thrown.PNG?raw=true" 
      width="800" 
      height="600" />
 <br>
 
-- Oldest Stadium
-- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/oldest%20stadium.PNG?raw=true" 
+<p><b>- Oldest Stadium</b></p>
+<img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/oldest%20stadium.PNG?raw=true" 
      width="800" 
      height="600" />
