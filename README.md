@@ -1,6 +1,6 @@
 # NFL-Database Queries (2020)
 
-- Normalized ER Diagram
+<p><b>- Normalized ER Diagram</b></p>
 - <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/Normalized%20ER.png?raw=true" 
      width="500" 
      height="450" />
