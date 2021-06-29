@@ -5,13 +5,13 @@
      width="500" 
      height="450" />
      
-
+<br>
      
 - Coaches
- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
+- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
      width="800" 
      height="600" />
-     
+<br>
      
 - Player Info
 - <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/player%20info.PNG?raw=true" 
