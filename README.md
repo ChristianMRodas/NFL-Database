@@ -1,6 +1,6 @@
 # NFL-Database Queries
 
-- NFL Coach
+- NFL Coaches
 - <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
-     width="500" 
-     height="500" />
+     width="600" 
+     height="400" />
