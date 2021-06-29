@@ -1,13 +1,14 @@
 # NFL-Database Queries (2020)
 
 <p><b>- Normalized ER Diagram</b></p>
-- <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/Normalized%20ER.png?raw=true" 
+<img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/Normalized%20ER.png?raw=true" 
      width="500" 
      height="450" />
  
 <br>
      
-- Coaches
+
+<p><b>- Coaches</b></p>
 - <img src="https://github.com/ChristianMRodas/NFL-Database/blob/main/coaches.PNG?raw=true" 
      width="800" 
      height="600" />
